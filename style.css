@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+
+.search,.redondo,.cuenta {
+    display: block;
+    height: 50px;
+    margin: 29px;
+    padding: 10px;
+
+}
+.search {
+    font-weight: 600;
+    width: 80px;
+    border-radius: 20px;
+    color: #00ff80;
+    border: 2px solid #00ff80;
+    background-color: #e5fff9;
+}
+
+.redondo{
+    font-weight: 600;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border-color: #00d1b2;
+    background-color: #00d1b2;
+    color: #fff;
+}
+
+.cuenta {
+    text-decoration: Solid #fff;
+    background-color: #0088ff;
+    color: #fff;
+    border-radius: 4px;
+    box-shadow: 0 6px 12px rgb(134 140 150 / 65%);
+    font-family: sans-serif;
+    
+}
